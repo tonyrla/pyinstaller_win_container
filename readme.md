@@ -1,4 +1,4 @@
-PyInstaller container for Windows applications
+PyInstaller container for creating onefile (.exe) Windows python applications
 
 docker build -f "win_pyinstaller.dockerfile" -t win_pyinstaller:latest "."
 ----
